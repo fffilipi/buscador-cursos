@@ -1,0 +1,12 @@
+{
+    "name": "fffilipi/buscador-cursos",
+    "description": "Projeto que busca os cursos no site da alura",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Filipi Nata",
+            "email": "filipi_f@hotmail.com"
+        }
+    ],
+    "require": {}
+}
