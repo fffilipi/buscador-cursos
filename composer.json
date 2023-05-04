@@ -8,5 +8,7 @@
             "email": "filipi_f@hotmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
 }
