@@ -24,6 +24,8 @@
         "phan/phan": "^5.4"
     },
     "scripts": {
-        "test": "phpunit tests\\TestBuscadorDeCursos.php"
+        "test": "phpunit tests\\TestBuscadorDeCursos.php",
+        "cs": "phpcs --standard=PSR12 src/",
+        "phan": "phan --allow-polyfill-parser"
     }
 }
